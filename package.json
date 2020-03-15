@@ -1,0 +1,13 @@
+{
+  "name": "temporal-types",
+  "version": "1.0.0",
+  "description": "Typescript types for time-based fields.",
+  "main": "temporal-types.ts",
+  "keywords": [
+    "typescript",
+    "time",
+    "temporal"
+  ],
+  "author": "Adam Fanello",
+  "license": "MIT"
+}
