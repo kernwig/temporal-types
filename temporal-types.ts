@@ -20,3 +20,10 @@ export type SQLDateTime = string;
 
 /** Timestamp in yyyy-mm-ddThh:mm:ss.nnnnnn+|-hh:mm format, common with ISO 8601 */
 export type ISODateTime = string;
+
+/** Second since 1970-01-01 UTC */
+export type UnixTime = number;
+
+/** Millisecond since 1970-01-01 UTC */
+export type UnixTimeMs = number;
+
